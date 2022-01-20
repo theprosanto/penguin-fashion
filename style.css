@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #363958
+    ;
+}
+ul>li>a{
+    font-weight: 500;
+}
+nav{
+    background-color: #FFFBF0;
+    padding-bottom: 200px;
+}
+.section-one h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 400;
+}
+
+/* section two start */
+.color-orange{
+    color: #FABE4C;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: 400;
+}
